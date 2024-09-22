@@ -1,0 +1,4 @@
+Given Functions from the course TA:
+common
+data
+validation

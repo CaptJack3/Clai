@@ -1,0 +1,8 @@
+gym
+gymnasium
+matplotlib
+ptan
+sklearn-pandas
+tensorboardX
+torchvision
+
